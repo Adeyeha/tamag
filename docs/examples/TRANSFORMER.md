@@ -86,7 +86,7 @@ display_magnetogram(magnetogram, bitmap_data, transformed)
 ```
 
 ### Sample Output
-![output](https://bitbucket.org/gsudmlab/tamag/src/master/docs/images/transformer_output.png)
+![output](https://github.com/Adeyeha/tamag/tree/master/docs/images/transformer_output.png)
 
 ## Transformers
 

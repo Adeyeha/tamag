@@ -54,11 +54,11 @@ plt.title('Flipped Image')
 
 ## Documentation
 
-For detailed documentation and examples, visit the [TaMag Documentation](https://bitbucket.org/gsudmlab/tamag/src/master/docs/examples/TRANSFORMER.md).
+For detailed documentation and examples, visit the [TaMag Documentation](https://github.com/Adeyeha/tamag/tree/master/docs/examples/TRANSFORMER.md).
 
 ## Changelog
 
-See the [Changelog](https://bitbucket.org/gsudmlab/tamag/src/master/CHANGELOG.md) for information about notable changes.
+See the [Changelog](https://github.com/Adeyeha/tamag/tree/master/CHANGELOG.md) for information about notable changes.
 
 <!-- ## Contributing
 
@@ -66,7 +66,7 @@ We welcome contributions from the community. Refer to the [Contributing Guide](h
 
 ## License
 
-TaMag is distributed under the GNU License. See [GNU General Public License, Version 3](https://bitbucket.org/gsudmlab/tamag/src/master/LICENSE.txt)   for details.
+TaMag is distributed under the GNU License. See [GNU General Public License, Version 3](https://github.com/Adeyeha/tamag/tree/master/LICENSE.txt)   for details.
 
 
 ## Citation
@@ -79,8 +79,8 @@ This work was supported by NSF Grant Award 2104004.
 
 ***
 
-This software is distributed using the [GNU General Public License, Version 3](https://bitbucket.org/gsudmlab/tamag/src/master/LICENSE.txt)  
-![GNU GPL v3 License](https://bitbucket.org/gsudmlab/tamag/src/master/docs/images/gplv3-88x31.png)
+This software is distributed using the [GNU General Public License, Version 3](https://github.com/Adeyeha/tamag/tree/master/LICENSE.txt)  
+![GNU GPL v3 License](https://github.com/Adeyeha/tamag/tree/master/docs/images/gplv3-88x31.png)
 
 
 ***
