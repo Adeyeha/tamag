@@ -73,7 +73,7 @@ TaMag is distributed under the GNU License. See [GNU General Public License, Ver
 
 If you use TaMag in a scientific publication, please consider citing our work. Refer to the [Citation Guide](https://github.com/Adeyeha/tamag/tree/master/tamag.bib) for details. 
 
-`GSU-DMLab, "TaMag: Magnetogram Transformation Module," Available online: https://bitbucket.org/ gsudmlab/tamag/, 2024.`S
+`GSU-DMLab, "TaMag: Magnetogram Transformation Module," Available online: https://bitbucket.org/ gsudmlab/tamag/, 2024.`
 
 ## Acknowledgment
 
