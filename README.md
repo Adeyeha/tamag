@@ -66,12 +66,14 @@ We welcome contributions from the community. Refer to the [Contributing Guide](h
 
 ## License
 
-TaMag is distributed under the GNU License. See [GNU General Public License, Version 3](https://github.com/Adeyeha/tamag/tree/master/LICENSE.txt)   for details.
+TaMag is distributed under the GNU License. See [GNU General Public License, Version 3](https://github.com/Adeyeha/tamag/tree/master/LICENSE.txt) for details.
 
 
 ## Citation
 
-If you use TaMag in a scientific publication, please consider citing our work. Refer to the [Citation Guide](https://tamag.example.com/citation) for details.
+If you use TaMag in a scientific publication, please consider citing our work. Refer to the [Citation Guide](https://github.com/Adeyeha/tamag/tree/master/tamag.bib) for details. 
+
+`GSU-DMLab, "TaMag: Magnetogram Transformation Module," Available online: https://bitbucket.org/ gsudmlab/tamag/, 2024.`S
 
 ## Acknowledgment
 
